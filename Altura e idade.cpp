@@ -8,10 +8,10 @@ int main()
     float altura = 0;
     
     cin >> idade;
-    cout << "A sua idade eh: " << idade << endl;
+    cout << "A sua idade é: " << idade << endl;
     
     cin >> altura;
-    cout << fixed << setprecision(2) << "A sua altura eh: " << altura << endl;
+    cout << "A sua altura é: " << altura << endl;
     
     return 0;
 }
