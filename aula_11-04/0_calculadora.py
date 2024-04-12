@@ -24,6 +24,7 @@ while valor1 != '-1':
         resultado = valor1 / valor2
     
     print("Resultado:", resultado)
-    
+
+    valor1 = input("Digite o primeiro valor (ou -1 para sair): ")
     
 print("Programa encerrado.")
